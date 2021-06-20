@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/DanielleP1086/Meet_App.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/DanielleP1086/Meet_App.git/static/js/main.11fc0581.chunk.js",
-    "main.js.map": "/DanielleP1086/Meet_App.git/static/js/main.11fc0581.chunk.js.map",
-    "runtime-main.js": "/DanielleP1086/Meet_App.git/static/js/runtime-main.a088db32.js",
-    "runtime-main.js.map": "/DanielleP1086/Meet_App.git/static/js/runtime-main.a088db32.js.map",
-    "static/js/2.aa02e605.chunk.js": "/DanielleP1086/Meet_App.git/static/js/2.aa02e605.chunk.js",
-    "static/js/2.aa02e605.chunk.js.map": "/DanielleP1086/Meet_App.git/static/js/2.aa02e605.chunk.js.map",
-    "static/js/3.6e96ec8f.chunk.js": "/DanielleP1086/Meet_App.git/static/js/3.6e96ec8f.chunk.js",
-    "static/js/3.6e96ec8f.chunk.js.map": "/DanielleP1086/Meet_App.git/static/js/3.6e96ec8f.chunk.js.map",
-    "index.html": "/DanielleP1086/Meet_App.git/index.html",
-    "service-worker.js": "/DanielleP1086/Meet_App.git/service-worker.js",
-    "service-worker.js.map": "/DanielleP1086/Meet_App.git/service-worker.js.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/DanielleP1086/Meet_App.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.aa02e605.chunk.js.LICENSE.txt": "/DanielleP1086/Meet_App.git/static/js/2.aa02e605.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/DanielleP1086/Meet_App.git/static/media/logo.103b5fa1.svg"
+    "main.css": "/Meet_App/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Meet_App/static/js/main.1a4960df.chunk.js",
+    "main.js.map": "/Meet_App/static/js/main.1a4960df.chunk.js.map",
+    "runtime-main.js": "/Meet_App/static/js/runtime-main.3f80ac04.js",
+    "runtime-main.js.map": "/Meet_App/static/js/runtime-main.3f80ac04.js.map",
+    "static/js/2.aa02e605.chunk.js": "/Meet_App/static/js/2.aa02e605.chunk.js",
+    "static/js/2.aa02e605.chunk.js.map": "/Meet_App/static/js/2.aa02e605.chunk.js.map",
+    "static/js/3.6e96ec8f.chunk.js": "/Meet_App/static/js/3.6e96ec8f.chunk.js",
+    "static/js/3.6e96ec8f.chunk.js.map": "/Meet_App/static/js/3.6e96ec8f.chunk.js.map",
+    "index.html": "/Meet_App/index.html",
+    "service-worker.js": "/Meet_App/service-worker.js",
+    "service-worker.js.map": "/Meet_App/service-worker.js.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Meet_App/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.aa02e605.chunk.js.LICENSE.txt": "/Meet_App/static/js/2.aa02e605.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Meet_App/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a088db32.js",
+    "static/js/runtime-main.3f80ac04.js",
     "static/js/2.aa02e605.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.11fc0581.chunk.js"
+    "static/js/main.1a4960df.chunk.js"
   ]
 }
