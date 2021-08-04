@@ -9,7 +9,7 @@ import CitySearch from '../CitySearch';
 const feature = loadFeature('./src/features/filterEventsByCity.feature');
 
 defineFeature(feature, test => {
-  test('When user hasn’t searched for a city, show upcoming events from all cities.', ({ given, when, then }) => {
+  test('When user hasn’t searched for a city, show upcoming events from all cities', ({ given, when, then }) => {
     given('user hasn’t searched for any city', () => {
 
     });
@@ -19,11 +19,14 @@ defineFeature(feature, test => {
       AppWrapper = mount(<App />);
     });
 
-    then('the user should see the list of upcoming events.', () => {
+    then('the user should see the list of upcoming events', () => {
       AppWrapper.update();
+      console.log(mockData.length);
       expect(AppWrapper.find('.event')).toHaveLength(mockData.length);
     });
   });
+
+
 
   test('User should see a list of suggestions when they search for a city', ({ given, when, then }) => {
     given('the main page is open', () => {

@@ -11,7 +11,7 @@ class Event extends Component {
     } = this.props.event;
 
     return (
-      <div>
+      <div className="event">
         <h2>{summary}</h2>
       </div>
     );

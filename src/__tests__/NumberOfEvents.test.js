@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import NumberOfEvents from '../NumberOfEvents';
-import { mockEvent } from '../mock-data';
+import { mockData } from '../mock-data';
 
 describe('<NumberOfEvents />', () => {
   let NumberOfEventsWrapper;
