@@ -5,14 +5,14 @@ class Event extends Component {
     const {
       summary,
       location,
-      start,
-      htmlLink,
-      description,
+      start
     } = this.props.event;
 
     return (
       <div className="event">
         <h2>{summary}</h2>
+        <p className='event-location'>{location}</p>
+        <p className='start-time'>{start.dateTime} {start.timeZone}</p>
       </div>
     );
   }
