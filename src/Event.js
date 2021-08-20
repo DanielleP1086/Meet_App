@@ -13,6 +13,7 @@ class Event extends Component {
         <h2>{summary}</h2>
         <p className='event-location'>{location}</p>
         <p className='start-time'>{start.dateTime} {start.timeZone}</p>
+        <button className="details-btn">Details</button>
       </div>
     );
   }
